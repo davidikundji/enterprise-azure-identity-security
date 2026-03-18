@@ -35,3 +35,8 @@ Run the following command:
 Install-Module Microsoft.Graph -Scope CurrentUser
 
 ### Step 1 – Install Microsoft Graph PowerShell Module
+
+### Step 2 – Connect to Microsoft Entra ID
+
+```powershell
+Connect-MgGraph -Scopes "User.ReadWrite.All"
