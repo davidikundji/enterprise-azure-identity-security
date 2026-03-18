@@ -6,7 +6,10 @@
 ![SIEM](https://img.shields.io/badge/Security-SIEM-orange)
 ![Automation](https://img.shields.io/badge/Automation-PowerShell-yellow)
 
-A cloud security project demonstrating **Identity and Access Management (IAM)**, **Zero Trust authentication**, **SIEM monitoring**, **PowerShell automation**, and **hybrid identity integration** using **Microsoft Azure**, **Microsoft Entra ID**, and **Active Directory**.
+## Architecture Diagram
+
+<img width="1193" height="762" alt="image" src="https://github.com/user-attachments/assets/b53fc233-3a9e-42d2-aa71-8af6918562d5" />
+
 
 ---
 ## 📌 Overview
