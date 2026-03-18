@@ -1,5 +1,14 @@
 # 🔐 Enterprise Azure Identity & Security Project
 
+![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue)
+![IAM](https://img.shields.io/badge/Security-IAM-green)
+![ZeroTrust](https://img.shields.io/badge/Security-Zero%20Trust-red)
+![SIEM](https://img.shields.io/badge/Security-SIEM-orange)
+![Automation](https://img.shields.io/badge/Automation-PowerShell-yellow)
+
+A cloud security project demonstrating **Identity and Access Management (IAM)**, **Zero Trust authentication**, **SIEM monitoring**, **PowerShell automation**, and **hybrid identity integration** using **Microsoft Azure**, **Microsoft Entra ID**, and **Active Directory**.
+
+---
 ## 📌 Overview
 
 This project demonstrates the design and implementation of an **enterprise-level cloud identity and security environment** using Microsoft Azure. It focuses on Identity and Access Management (IAM), Zero Trust security, SIEM monitoring, automation, and hybrid identity integration.
