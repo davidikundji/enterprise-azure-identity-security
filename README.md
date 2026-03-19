@@ -95,27 +95,6 @@ The goal of this project is to simulate **real-world cloud security scenarios** 
 - Monitored threats and alerts  
 
 ---
-
-## 📂 Repository Structure
-
-│
-├── labs
-│ ├── 01-entra-id-security
-│ ├── 02-conditional-access
-│ ├── 03-sentinel-monitoring
-│ ├── 04-powershell-automation
-│ ├── 05-hybrid-identity
-│ ├── 06-azure-network-security
-│ └── 07-defender-for-cloud
-│
-├── scripts
-│ ├── create-users.ps1
-│ ├── disable-inactive-users.ps1
-│ └── identity-report.ps1
-│
-└── screenshots
-
-
 ---
 
 ## 🔐 Key Security Concepts
