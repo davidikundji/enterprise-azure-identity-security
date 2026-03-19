@@ -169,8 +169,7 @@ Cloud Computing | IAM | Cloud Security
 
 ## 📬 Let’s Connect
 
-- LinkedIn: (add your link)  
-- GitHub: (your repo link)  
+- LinkedIn: https://www.linkedin.com/in/david-ikundji-5b6473213/ 
 
 ---
 
