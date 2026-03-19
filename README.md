@@ -116,6 +116,8 @@ enterprise-azure-identity-security
 
 ## 🏗️ Architecture Diagram
 
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
 ```mermaid
 flowchart TD
     Internet --> Firewall
