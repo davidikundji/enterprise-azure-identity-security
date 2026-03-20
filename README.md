@@ -156,7 +156,6 @@ flowchart TD
 
 ## 📸 Screenshots
 
-> Add screenshots here to showcase your work
 
 ---
 
